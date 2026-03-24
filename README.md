@@ -11,3 +11,9 @@ Data Integrity: Réduction de 95% des erreurs de calcul par rapport aux saisies 
 Language: Python 3
 Environment: Cross-platform (Replit, VS Code, Terminal)
 Logic: Financial Management Algorithms (TSGE Standards)
+https://github.com/votre-username/business-suite-morocco.git
+ Author
+Ilyass Baalat
+TSGE Student @ Groupe IKI
+Professional Cook @ Fairmont Tazi Palace
+https://www.linkedin.com/in/ilyas-baalat-
